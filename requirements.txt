@@ -1,5 +1,5 @@
-- pandas
-- duckdb
-- jupyter
-- altair
-- pyarrow
+pandas
+duckdb
+jupyter
+altair
+pyarrow
