@@ -3,3 +3,4 @@ duckdb
 jupyter
 altair
 pyarrow
+vl-convert-python
